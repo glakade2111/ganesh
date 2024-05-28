@@ -1,3 +1,3 @@
 # ganesh
 this is my first repository
-author :ganesh lakade
+author :ganesh lakade1
